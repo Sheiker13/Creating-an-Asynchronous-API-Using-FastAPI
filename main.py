@@ -5,8 +5,6 @@ import asyncio
 
 
 app = FastAPI()
-
-
 tasks = {}
 
 
